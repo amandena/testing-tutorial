@@ -3,7 +3,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      App
+      <ul>
+        <li>hola</li>
+        <li>hi</li>
+        <li>konichiwa</li>
+      </ul>
     </div>
   );
 }
